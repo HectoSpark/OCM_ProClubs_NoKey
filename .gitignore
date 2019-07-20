@@ -1,0 +1,8 @@
+
+__pycache__/
+
+\.~lock\.Database Design\.ods#
+
+*.db
+
+mydb\.db-journal
